@@ -1,0 +1,25 @@
+<svg width="256" height="256" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="256" height="256" rx="32" fill="#0F0A26"/>
+  <rect x="28" y="28" width="200" height="200" rx="20" fill="url(#grad)"/>
+  <rect x="48" y="48" width="160" height="160" rx="12" fill="#0F0A26" stroke="rgba(167, 139, 250, 0.6)" stroke-width="4" stroke-dasharray="10 8"/>
+  <g fill="#E5DEFF">
+    <rect x="66" y="66" width="32" height="32" rx="6"/>
+    <rect x="158" y="66" width="32" height="32" rx="6"/>
+    <rect x="66" y="158" width="32" height="32" rx="6"/>
+    <rect x="158" y="158" width="32" height="32" rx="6"/>
+    <rect x="110" y="110" width="36" height="12" rx="4"/>
+    <rect x="110" y="134" width="12" height="12" rx="4"/>
+    <rect x="134" y="134" width="12" height="36" rx="4"/>
+    <rect x="110" y="158" width="12" height="12" rx="4"/>
+  </g>
+  <rect x="86" y="86" width="12" height="12" rx="3" fill="#0F0A26"/>
+  <rect x="178" y="86" width="12" height="12" rx="3" fill="#0F0A26"/>
+  <rect x="86" y="178" width="12" height="12" rx="3" fill="#0F0A26"/>
+  <rect x="178" y="178" width="12" height="12" rx="3" fill="#0F0A26"/>
+  <defs>
+    <linearGradient id="grad" x1="28" y1="28" x2="228" y2="228" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#8B5CF6" stop-opacity="0.4"/>
+      <stop offset="1" stop-color="#4338CA" stop-opacity="0.6"/>
+    </linearGradient>
+  </defs>
+</svg>
